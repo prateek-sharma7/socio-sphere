@@ -1,3 +1,23 @@
+# Features and Screenshots
+## 1. Front Component (Entry page)
+<img src="https://github.com/prateek-sharma7/socio-sphere/blob/master/images/0.png" width=500>
+
+## 2. Login Component
+<img src="https://github.com/prateek-sharma7/socio-sphere/blob/master/images/3.png" width=500>
+
+## 3. SignUp Component
+<img src="https://github.com/prateek-sharma7/socio-sphere/blob/master/images/4.png" width=500>
+
+## 4. Chat and Friends components shows up after signing in
+<img src="https://github.com/prateek-sharma7/socio-sphere/blob/master/images/1.png" width=500>
+
+## 6. SearchBar Component for searching users
+<img src="https://github.com/prateek-sharma7/socio-sphere/blob/master/images/5.png" width=500>
+
+## 7. User profile component and functionality for adding or removing a user as a friend
+<img src="https://github.com/prateek-sharma7/socio-sphere/blob/master/images/6.png" width=200>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
